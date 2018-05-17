@@ -11,4 +11,10 @@ scales >= 0.5.0
 mice >= 2.46.0
 sinkr
 
+The script main_dineof_LARGE_DATA.R depends on all the packages above and, additionally, on the following packages:
+
+DBI >= 0.7
+RSQLite >= 2.0
+lubridate >= 1.7.1
+
 sinkr is available at https://github.com/marchtaylor/sinkr
